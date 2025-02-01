@@ -18,7 +18,7 @@
 ## PIE CHART
 ![Tableau- Pie Chart](https://github.com/user-attachments/assets/9a5c5488-dd47-47b9-bf65-42768fbe2e9b)
 
-## SIMPLE COLUMN CHART
+## SIMPLE BAR CHART
 ![Tableau- Simple Column Chart](https://github.com/user-attachments/assets/53be3d89-169f-4345-8279-05e4a62d12b1)
 
 ## STACK COLUMN CHART
