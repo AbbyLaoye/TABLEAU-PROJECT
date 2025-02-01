@@ -31,5 +31,28 @@
 ## STACK COLUMN WITH EXCLUDE
 ![Tableau- Stack Column with Exclude](https://github.com/user-attachments/assets/5f7e146e-a56e-4fe7-aa85-e82d3fd7ee21)
 
+## 3 BAR CHART IN 1 VIEW
+![Tableau- 3 Bar Chart in 1 view](https://github.com/user-attachments/assets/6119f45d-483f-4d85-aaa7-8e9dbad44d3a)
+
+## 3 COLUMN CHART IN 1 VIEW
+![Tableau- 3 Column Chart in 1 view](https://github.com/user-attachments/assets/ec46d372-9607-42c7-8cc8-15d543bd4845)
+
+## BAR CHART WITH DATE FILTER
+![Tableau- Bar Chart with Date Filter](https://github.com/user-attachments/assets/e0d3870f-8f10-41d5-ba35-5d62c0548c61)
+
+## CALCULATED FIELD
+![Tableau- Calculated Field](https://github.com/user-attachments/assets/e67cffb3-74da-40c8-8c89-42aa4b439844)
+
+## CROSS TAB
+![Tableau- Cross Tab](https://github.com/user-attachments/assets/79b54935-510b-4b3a-86c4-b88b40b2a173)
+
+## DASHBOARD
+![Tableau- Dashboard](https://github.com/user-attachments/assets/6a96ac09-d84a-4f3d-8783-162dc97f57bf)
+
+## DIMENSION CONTROL WITH PARMETER
+![Tableau- Dimension Control with Parameter](https://github.com/user-attachments/assets/c53729aa-ce92-4678-9744-96111bfddcb3)
+
+## KPI TABLE
+![Tableau- KPI Table](https://github.com/user-attachments/assets/6d23da2a-b6c1-4efb-9dfd-47bbafaa44a3)
 
 
